@@ -100,7 +100,7 @@ class ViewController: UIViewController {
             case 25..<30:
                 BMI = "肥満1度"
                 animeWidth = animeWidthOrigin * 1.2
-                manColor = .yellow
+                manColor = .systemYellow
             case 30..<35:
                 BMI = "肥満2度"
                 animeWidth = animeWidthOrigin * 1.4
